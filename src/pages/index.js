@@ -1,24 +1,22 @@
 import React from 'react'
-//
-//import Button from '../components/atoms/Button';
 import styled from 'styled-components'
+//
+import Button from '../components/atoms/Button'
+//
+import image from '../img/legopink.jpg'
 
 export default () => (
   <div style={{ textAlign: 'center' }}>
     <h1>Welcome to React-Static</h1>
     <Button>Test!</Button>
     <Button primary>Test!</Button>
+    <img src={image} />
+    <Bg />
   </div>
 )
 
-const Button = styled.button`
-    /* Adapt the colors based on primary prop */
-    background: ${props => props.primary ? "palevioletred" : "white"};
-    color: ${props => props.primary ? "white" : "palevioletred"};
-
-    font-size: 1em;
-    margin: 1em;
-    padding: 0.25em 1em;
-    border: 2px solid palevioletred;
-    border-radius: 3px;
+const Bg = styled.div`
+    width: 300px;
+    height: 300px;
+    background-image: url(${image});
 `;
