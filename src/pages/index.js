@@ -7,16 +7,21 @@ import image from '../img/legopink.jpg'
 
 export default () => (
   <div style={{ textAlign: 'center' }}>
-    <h1>Welcome to React-Static</h1>
-    <Button>Test!</Button>
-    <Button primary>Test!</Button>
-    <img src={image} />
-    <Bg />
+    <TitleBg>
+
+        <h1>Welcome to React-Static</h1>
+        <Button>Test!</Button>
+        <Button primary>Test!</Button>
+    </TitleBg>
   </div>
 )
 
-const Bg = styled.div`
-    width: 300px;
+const TitleBg = styled.div`
+    width: 100%;
     height: 300px;
     background-image: url(${image});
+    background-size: cover;
+    background-position: center;
+}
+
 `;
