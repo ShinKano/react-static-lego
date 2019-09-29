@@ -2,26 +2,48 @@ import React from 'react'
 import styled from 'styled-components'
 //
 import Button from '../components/atoms/Button'
-//
-import image from '../img/legopink.jpg'
+import HeroBG from '../components/atoms/HeroBG'
+import Card from '../components/atoms/Card'
 
 export default () => (
   <div style={{ textAlign: 'center' }}>
-    <TitleBg>
+        <HeroBG>
+            <div className="is-margin-top">
+                <h1>レゴれごレご</h1>
+                <h2>ここにサブタイトルは入る</h2>
+                <Button primary>Test!</Button>
+            </div>
+        </HeroBG>
+        <div className="is-margin-top"/>
+        <div className="container">
+            <h2>ここに概要がくる</h2>
+            <p>ここに概要を説明するテキストがずらり。
+                CSS3では :first-child や :nth-child 、 :not() のような擬似クラスで柔軟にセレクタを指定することができます。 ... 例えば上記のように :first-child で指定した場合、直近の子要素にセレクタで指定しているもの以外の要素があると、期待どおりに ...
+            </p>
 
-        <h1>Welcome to React-Static</h1>
-        <Button>Test!</Button>
-        <Button primary>Test!</Button>
-    </TitleBg>
+            <div className="is-margin-top-4"/>
+            <h2>ここに概要がくる</h2>
+            <div className="is-flex-grid">
+                <div className="is-flex-1">
+                    <h3>ここにテキストタイトル</h3>
+                </div>
+                <div className="is-flex-1">
+                    <h3>こっちはイメージ</h3>
+                </div>
+            </div>
+            <div className="is-flex-grid">
+                <div className="is-flex-1">
+                    <Card>ここにテキストタイトル</Card>
+                </div>
+                <div className="is-flex-1">
+                    <Card>こっちはイメージ</Card>
+                </div>
+            </div>
+
+        </div>
+        
   </div>
 )
 
-const TitleBg = styled.div`
-    width: 100%;
-    height: 300px;
-    background-image: url(${image});
-    background-size: cover;
-    background-position: center;
-}
 
-`;
+
