@@ -1,37 +1,44 @@
 {
   "errors": [],
   "warnings": [
-    "asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  templates/vendors~main.0bde093d.js (271 KiB)"
+    "asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  templates/vendors~main.d1318f72.js (271 KiB)"
   ],
   "version": "4.29.6",
-  "hash": "2a6ff863db1cf7af03b4",
-  "time": 15364,
-  "builtAt": 1569770631601,
+  "hash": "b0f9f6cf49006480f8ae",
+  "time": 8397,
+  "builtAt": 1569776776007,
   "publicPath": "/",
   "outputPath": "/Users/Shinnosuke/Documents/b5react/lego/dist",
   "assetsByChunkName": {
-    "main": "main.2a6ff863.js",
-    "src/containers/Post": "templates/src/containers/Post.8bda9143.js",
+    "main": "main.b0f9f6cf.js",
+    "src/containers/Post": "templates/src/containers/Post.f37d855e.js",
     "src/pages/404": "templates/src/pages/404.8f0ff67e.js",
     "src/pages/about": "templates/src/pages/about.987ddc6f.js",
-    "src/pages/blog": "templates/src/pages/blog.5590048e.js",
-    "src/pages/index": "templates/src/pages/index.903d4d8f.js",
+    "src/pages/blog": "templates/src/pages/blog.20cfb81d.js",
+    "src/pages/index": "templates/src/pages/index.cba17a5e.js",
     "styles": [
-      "styles.b1e5e167.css",
-      "templates/styles.b1e5e167.js"
+      "styles.d29fe956.css",
+      "templates/styles.d29fe956.js"
     ],
-    "vendors~main": "templates/vendors~main.0bde093d.js"
+    "vendors~main": "templates/vendors~main.d1318f72.js"
   },
   "assets": [
     {
-      "name": "main.2a6ff863.js",
-      "size": 7250,
+      "name": "main.b0f9f6cf.js",
+      "size": 7224,
       "chunks": [
         0
       ],
       "chunkNames": [
         "main"
       ],
+      "emitted": true
+    },
+    {
+      "name": "static/kidplay.fc3a8d5a.jpg",
+      "size": 109141,
+      "chunks": [],
+      "chunkNames": [],
       "emitted": true
     },
     {
@@ -42,8 +49,8 @@
       "emitted": true
     },
     {
-      "name": "styles.b1e5e167.css",
-      "size": 365,
+      "name": "styles.d29fe956.css",
+      "size": 867,
       "chunks": [
         6
       ],
@@ -53,7 +60,7 @@
       "emitted": true
     },
     {
-      "name": "templates/src/containers/Post.8bda9143.js",
+      "name": "templates/src/containers/Post.f37d855e.js",
       "size": 411,
       "chunks": [
         1
@@ -86,7 +93,7 @@
       "emitted": true
     },
     {
-      "name": "templates/src/pages/blog.5590048e.js",
+      "name": "templates/src/pages/blog.20cfb81d.js",
       "size": 674,
       "chunks": [
         4
@@ -97,8 +104,8 @@
       "emitted": true
     },
     {
-      "name": "templates/src/pages/index.903d4d8f.js",
-      "size": 1443,
+      "name": "templates/src/pages/index.cba17a5e.js",
+      "size": 3108,
       "chunks": [
         5
       ],
@@ -108,7 +115,7 @@
       "emitted": true
     },
     {
-      "name": "templates/styles.b1e5e167.js",
+      "name": "templates/styles.d29fe956.js",
       "size": 82,
       "chunks": [
         6
@@ -119,7 +126,7 @@
       "emitted": true
     },
     {
-      "name": "templates/vendors~main.0bde093d.js",
+      "name": "templates/vendors~main.d1318f72.js",
       "size": 277438,
       "chunks": [
         7
@@ -140,10 +147,10 @@
         0
       ],
       "assets": [
-        "styles.b1e5e167.css",
-        "templates/styles.b1e5e167.js",
-        "templates/vendors~main.0bde093d.js",
-        "main.2a6ff863.js"
+        "styles.d29fe956.css",
+        "templates/styles.d29fe956.js",
+        "templates/vendors~main.d1318f72.js",
+        "main.b0f9f6cf.js"
       ],
       "children": {},
       "childAssets": {}
@@ -157,10 +164,10 @@
         0
       ],
       "assets": [
-        "styles.b1e5e167.css",
-        "templates/styles.b1e5e167.js",
-        "templates/vendors~main.0bde093d.js",
-        "main.2a6ff863.js"
+        "styles.d29fe956.css",
+        "templates/styles.d29fe956.js",
+        "templates/vendors~main.d1318f72.js",
+        "main.b0f9f6cf.js"
       ],
       "children": {},
       "childAssets": {}
@@ -190,7 +197,7 @@
         4
       ],
       "assets": [
-        "templates/src/pages/blog.5590048e.js"
+        "templates/src/pages/blog.20cfb81d.js"
       ],
       "children": {},
       "childAssets": {}
@@ -200,7 +207,7 @@
         5
       ],
       "assets": [
-        "templates/src/pages/index.903d4d8f.js"
+        "templates/src/pages/index.cba17a5e.js"
       ],
       "children": {},
       "childAssets": {}
@@ -210,7 +217,7 @@
         1
       ],
       "assets": [
-        "templates/src/containers/Post.8bda9143.js"
+        "templates/src/containers/Post.f37d855e.js"
       ],
       "children": {},
       "childAssets": {}
@@ -222,14 +229,14 @@
       "rendered": true,
       "initial": true,
       "entry": true,
-      "size": 7472,
+      "size": 7446,
       "names": [
         "main"
       ],
       "files": [
-        "main.2a6ff863.js"
+        "main.b0f9f6cf.js"
       ],
-      "hash": "7dd087ad1da247fc6973",
+      "hash": "a96e2a29af0dbefd8809",
       "siblings": [
         6,
         7
@@ -245,7 +252,7 @@
       "childrenByOrder": {},
       "modules": [
         {
-          "id": 19,
+          "id": 20,
           "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
           "name": "/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
           "index": 130,
@@ -379,7 +386,7 @@
           "name": "/Users/Shinnosuke/Documents/b5react/lego/src/App.js + 3 modules",
           "index": 129,
           "index2": 144,
-          "size": 2314,
+          "size": 2288,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -609,7 +616,7 @@
               "name": "/Users/Shinnosuke/Documents/b5react/lego/src/components/atoms/Navbar.js",
               "index": 134,
               "index2": 142,
-              "size": 706,
+              "size": 680,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -672,7 +679,7 @@
               ],
               "optimizationBailout": [],
               "depth": 4,
-              "source": "import _taggedTemplateLiteral from\"@babel/runtime/helpers/taggedTemplateLiteral\";function _templateObject(){var data=_taggedTemplateLiteral([\"\\n    width: 100%;\\n    height: 2rem;\\n    color: rgba(0, 0, 0, 0.54);\\n    background-color: white;\\n    padding: 1rem;\\n    box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.2),\\n                0px 1px 1px 0px rgba(0,0,0,0.14),\\n                0px 2px 1px -1px rgba(0,0,0,0.12);\\n    display: flex;\\n    align-items: center;\\n    position: fixed;\\n    z-index: 1000;\\n    margin-bottom: 3rem;\\n\"]);_templateObject=function _templateObject(){return data;};return data;}import styled from'styled-components';var Navbar=styled.div(_templateObject());export default Navbar;"
+              "source": "import _taggedTemplateLiteral from\"@babel/runtime/helpers/taggedTemplateLiteral\";function _templateObject(){var data=_taggedTemplateLiteral([\"\\n    width: 100%;\\n    height: 2rem;\\n    color: rgba(0, 0, 0, 0.54);\\n    background-color: white;\\n    padding: 1rem;\\n    box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.2),\\n                0px 1px 1px 0px rgba(0,0,0,0.14),\\n                0px 2px 1px -1px rgba(0,0,0,0.12);\\n    display: flex;\\n    align-items: center;\\n    position: fixed;\\n    z-index: 1000;\\n\"]);_templateObject=function _templateObject(){return data;};return data;}import styled from'styled-components';var Navbar=styled.div(_templateObject());export default Navbar;"
             },
             {
               "id": null,
@@ -1086,9 +1093,9 @@
         "src/containers/Post"
       ],
       "files": [
-        "templates/src/containers/Post.8bda9143.js"
+        "templates/src/containers/Post.f37d855e.js"
       ],
-      "hash": "8bda91438011574953ba",
+      "hash": "f37d855e7076660b8d3d",
       "siblings": [],
       "parents": [
         0,
@@ -1102,8 +1109,8 @@
           "id": 62,
           "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/containers/Post.js",
           "name": "/Users/Shinnosuke/Documents/b5react/lego/src/containers/Post.js",
-          "index": 157,
-          "index2": 157,
+          "index": 159,
+          "index2": 159,
           "size": 396,
           "cacheable": true,
           "built": true,
@@ -1398,9 +1405,9 @@
         "src/pages/blog"
       ],
       "files": [
-        "templates/src/pages/blog.5590048e.js"
+        "templates/src/pages/blog.20cfb81d.js"
       ],
-      "hash": "5590048e56d68de7721e",
+      "hash": "20cfb81db90dee048aad",
       "siblings": [],
       "parents": [
         0,
@@ -1497,14 +1504,14 @@
       "rendered": true,
       "initial": false,
       "entry": false,
-      "size": 2090,
+      "size": 5553,
       "names": [
         "src/pages/index"
       ],
       "files": [
-        "templates/src/pages/index.903d4d8f.js"
+        "templates/src/pages/index.cba17a5e.js"
       ],
-      "hash": "903d4d8f9891ba5da73d",
+      "hash": "cba17a5ec9cd5fbea780",
       "siblings": [],
       "parents": [
         0,
@@ -1516,11 +1523,11 @@
       "modules": [
         {
           "id": 63,
-          "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-          "name": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+          "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "name": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
           "index": 153,
-          "index2": 156,
-          "size": 2016,
+          "index2": 158,
+          "size": 5406,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -1564,6 +1571,7 @@
             "ModuleConcatenation bailout: Cannot concat with /Users/Shinnosuke/Documents/b5react/lego/node_modules/@babel/runtime/helpers/taggedTemplateLiteral.js (<- Module is not an ECMAScript module)",
             "ModuleConcatenation bailout: Cannot concat with /Users/Shinnosuke/Documents/b5react/lego/node_modules/react/index.js (<- Module is not an ECMAScript module)",
             "ModuleConcatenation bailout: Cannot concat with /Users/Shinnosuke/Documents/b5react/lego/node_modules/styled-components/dist/styled-components.browser.esm.js (<- Module uses injected variables (process))",
+            "ModuleConcatenation bailout: Cannot concat with /Users/Shinnosuke/Documents/b5react/lego/src/img/kidplay.jpg (<- Module is not an ECMAScript module)",
             "ModuleConcatenation bailout: Cannot concat with /Users/Shinnosuke/Documents/b5react/lego/src/img/legopink.jpg (<- Module is not an ECMAScript module)"
           ],
           "depth": 3,
@@ -1573,8 +1581,8 @@
               "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
               "name": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
               "index": 153,
-              "index2": 156,
-              "size": 480,
+              "index2": 158,
+              "size": 3240,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -1632,7 +1640,7 @@
                 "ModuleConcatenation bailout: Module is referenced from these modules with unsupported syntax: /Users/Shinnosuke/Documents/b5react/lego/artifacts/react-static-templates.js (referenced with import(), require.resolve)"
               ],
               "depth": 3,
-              "source": "import React from'react';import styled from'styled-components';//\nimport Button from'../components/atoms/Button';import HeroBG from'../components/atoms/HeroBG';export default(function(){return React.createElement(\"div\",{style:{textAlign:'center'}},React.createElement(HeroBG,null,React.createElement(\"h1\",null,\"Welcome to React-Static\"),React.createElement(Button,null,\"Test!\"),React.createElement(Button,{primary:true},\"Test!\")),React.createElement(\"h2\",null,\"this is test\"));});"
+              "source": "import React from'react';import styled from'styled-components';//\nimport Button from'../components/atoms/Button';import HeroBG from'../components/atoms/HeroBG';import Card from'../components/atoms/Card';//\nimport imge from'../img/kidplay.jpg';export default(function(){return React.createElement(\"div\",{style:{textAlign:'center'}},React.createElement(HeroBG,null,React.createElement(\"div\",{className:\"is-margin-top\"},React.createElement(\"h1\",null,\"\\u30EC\\u30B4\\u308C\\u3054\\u30EC\\u3054\"),React.createElement(\"h2\",null,\"\\u3053\\u3053\\u306B\\u30B5\\u30D6\\u30BF\\u30A4\\u30C8\\u30EB\\u306F\\u5165\\u308B\"),React.createElement(Button,{primary:true},\"Test!\"))),React.createElement(\"div\",{className:\"is-margin-top\"}),React.createElement(\"div\",{className:\"container\"},React.createElement(\"h2\",null,\"\\u3053\\u3053\\u306B\\u6982\\u8981\\u304C\\u304F\\u308B\"),React.createElement(\"p\",null,\"\\u3053\\u3053\\u306B\\u6982\\u8981\\u3092\\u8AAC\\u660E\\u3059\\u308B\\u30C6\\u30AD\\u30B9\\u30C8\\u304C\\u305A\\u3089\\u308A\\u3002 CSS3\\u3067\\u306F :first-child \\u3084 :nth-child \\u3001 :not() \\u306E\\u3088\\u3046\\u306A\\u64EC\\u4F3C\\u30AF\\u30E9\\u30B9\\u3067\\u67D4\\u8EDF\\u306B\\u30BB\\u30EC\\u30AF\\u30BF\\u3092\\u6307\\u5B9A\\u3059\\u308B\\u3053\\u3068\\u304C\\u3067\\u304D\\u307E\\u3059\\u3002 ... \\u4F8B\\u3048\\u3070\\u4E0A\\u8A18\\u306E\\u3088\\u3046\\u306B :first-child \\u3067\\u6307\\u5B9A\\u3057\\u305F\\u5834\\u5408\\u3001\\u76F4\\u8FD1\\u306E\\u5B50\\u8981\\u7D20\\u306B\\u30BB\\u30EC\\u30AF\\u30BF\\u3067\\u6307\\u5B9A\\u3057\\u3066\\u3044\\u308B\\u3082\\u306E\\u4EE5\\u5916\\u306E\\u8981\\u7D20\\u304C\\u3042\\u308B\\u3068\\u3001\\u671F\\u5F85\\u3069\\u304A\\u308A\\u306B ...\"),React.createElement(\"div\",{className:\"is-margin-top-4\"}),React.createElement(\"h2\",null,\"\\u3053\\u3053\\u306B\\u6982\\u8981\\u304C\\u304F\\u308B\"),React.createElement(\"div\",{className:\"is-flex-grid\"},React.createElement(\"div\",{className:\"is-flex-1\"},React.createElement(\"h3\",null,\"\\u3053\\u3053\\u306B\\u30C6\\u30AD\\u30B9\\u30C8\\u30BF\\u30A4\\u30C8\\u30EB\"),React.createElement(\"p\",null,\"\\u3053\\u3053\\u306B\\u6982\\u8981\\u3092\\u8AAC\\u660E\\u3059\\u308B\\u30C6\\u30AD\\u30B9\\u30C8\\u304C\\u305A\\u3089\\u308A\\u3002 CSS3\\u3067\\u306F :first-child \\u3084 :nth-child \\u3001 :not() \\u306E\\u3088\\u3046\\u306A\\u64EC\\u4F3C\\u30AF\\u30E9\\u30B9\\u3067\\u67D4\\u8EDF\\u306B\\u30BB\\u30EC\\u30AF\\u30BF\\u3092\\u6307\\u5B9A\\u3059\\u308B\\u3053\\u3068\\u304C\\u3067\\u304D\\u307E\\u3059\\u3002 ... \\u4F8B\\u3048\\u3070\\u4E0A\\u8A18\\u306E\\u3088\\u3046\\u306B :first-child \\u3067\\u6307\\u5B9A\\u3057\\u305F\\u5834\\u5408\\u3001\\u76F4\\u8FD1\\u306E\\u5B50\\u8981\\u7D20\\u306B\\u30BB\\u30EC\\u30AF\\u30BF\\u3067\\u6307\\u5B9A\\u3057\\u3066\\u3044\\u308B\\u3082\\u306E\\u4EE5\\u5916\\u306E\\u8981\\u7D20\\u304C\\u3042\\u308B\\u3068\\u3001\\u671F\\u5F85\\u3069\\u304A\\u308A\\u306B ...\")),React.createElement(\"div\",{className:\"is-flex-1\"},React.createElement(\"p\",null,React.createElement(\"img\",{src:imge})))),React.createElement(\"div\",{className:\"is-margin-top-4\"}),React.createElement(\"h2\",null,\"\\u3053\\u3053\\u306B\\u6982\\u8981\\u304C\\u304F\\u308B\"),React.createElement(\"div\",{className:\"is-flex-grid\"},React.createElement(\"div\",{className:\"is-flex-1\"},React.createElement(Card,null,\"\\u3053\\u3053\\u306B\\u30C6\\u30AD\\u30B9\\u30C8\\u30BF\\u30A4\\u30C8\\u30EB\")),React.createElement(\"div\",{className:\"is-flex-1\"},React.createElement(Card,null,\"\\u3053\\u3063\\u3061\\u306F\\u30A4\\u30E1\\u30FC\\u30B8\")))));});"
             },
             {
               "id": null,
@@ -1640,7 +1648,7 @@
               "name": "/Users/Shinnosuke/Documents/b5react/lego/src/components/atoms/Button.js",
               "index": 154,
               "index2": 153,
-              "size": 845,
+              "size": 833,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -1692,16 +1700,7 @@
                   "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
                   "type": "harmony import specifier",
                   "userRequest": "../components/atoms/Button",
-                  "loc": "2:291-297"
-                },
-                {
-                  "moduleId": null,
-                  "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
-                  "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
-                  "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
-                  "type": "harmony import specifier",
-                  "userRequest": "../components/atoms/Button",
-                  "loc": "2:332-338"
+                  "loc": "3:407-413"
                 }
               ],
               "usedExports": [
@@ -1712,7 +1711,7 @@
               ],
               "optimizationBailout": [],
               "depth": 4,
-              "source": "import _taggedTemplateLiteral from\"@babel/runtime/helpers/taggedTemplateLiteral\";function _templateObject(){var data=_taggedTemplateLiteral([\"\\n    /* Adapt the colors based on primary prop */\\n    background: \",\";\\n    color: \",\";\\n\\n    font-size: 1em;\\n    margin: 1em;\\n    padding: 0.25em 1em;\\n    border: 2px solid palevioletred;\\n    border-radius: 3px;\\n    box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.2),\\n                0px 1px 1px 0px rgba(0,0,0,0.14),\\n                0px 2px 1px -1px rgba(0,0,0,0.12);\\n\"]);_templateObject=function _templateObject(){return data;};return data;}import React from'react';import styled from'styled-components';var Button=styled.button(_templateObject(),function(props){return props.primary?\"palevioletred\":\"white\";},function(props){return props.primary?\"white\":\"palevioletred\";});export default Button;"
+              "source": "import _taggedTemplateLiteral from\"@babel/runtime/helpers/taggedTemplateLiteral\";function _templateObject(){var data=_taggedTemplateLiteral([\"\\n    /* Adapt the colors based on primary prop */\\n    background: \",\";\\n    color: \",\";\\n\\n    font-size: 1em;\\n    margin: 1em;\\n    padding: 0.25em 1em;\\n    border: 0px solid palevioletred;\\n    border-radius: 3px;\\n    box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.2),\\n                0px 1px 1px 0px rgba(0,0,0,0.14),\\n                0px 2px 1px -1px rgba(0,0,0,0.12);\\n\"]);_templateObject=function _templateObject(){return data;};return data;}import React from'react';import styled from'styled-components';var Button=styled.button(_templateObject(),function(props){return props.primary?\"#2976D2\":\"white\";},function(props){return props.primary?\"white\":\"#2976D2\";});export default Button;"
             },
             {
               "id": null,
@@ -1720,7 +1719,7 @@
               "name": "/Users/Shinnosuke/Documents/b5react/lego/src/components/atoms/HeroBG.js",
               "index": 155,
               "index2": 155,
-              "size": 671,
+              "size": 690,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -1772,7 +1771,7 @@
                   "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
                   "type": "harmony import specifier",
                   "userRequest": "../components/atoms/HeroBG",
-                  "loc": "2:202-208"
+                  "loc": "3:145-151"
                 }
               ],
               "usedExports": [
@@ -1783,7 +1782,87 @@
               ],
               "optimizationBailout": [],
               "depth": 4,
-              "source": "import _taggedTemplateLiteral from\"@babel/runtime/helpers/taggedTemplateLiteral\";function _templateObject(){var data=_taggedTemplateLiteral([\"\\n    width: 100%;\\n    height: 300px;\\n    background-image: url(\",\");\\n    background-size: cover;\\n    background-position: center;\\n    /* flex */\\n    display: flex;\\n    align-items: center;\\n    flex-flow: column;\\n    /* fix the hight of Navbar */\\n    padding-top: 4rem;\\n\"]);_templateObject=function _templateObject(){return data;};return data;}import styled from'styled-components';// Background Image pass\nimport image from'../../img/legopink.jpg';var HeroBG=styled.div(_templateObject(),image);export default HeroBG;"
+              "source": "import _taggedTemplateLiteral from\"@babel/runtime/helpers/taggedTemplateLiteral\";function _templateObject(){var data=_taggedTemplateLiteral([\"\\n    width: 100%;\\n    height: 300px;\\n    background-image: url(\",\");\\n    background-size: cover;\\n    background-position: center;\\n    color: white;\\n    /* flex */\\n    display: flex;\\n    align-items: center;\\n    flex-flow: column;\\n    /* fix the hight of Navbar */\\n    padding-top: 4rem;\\n\"]);_templateObject=function _templateObject(){return data;};return data;}import styled from'styled-components';// Background Image pass\nimport image from'../../img/legopink.jpg';var HeroBG=styled.div(_templateObject(),image);export default HeroBG;"
+            },
+            {
+              "id": null,
+              "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/components/atoms/Card.js",
+              "name": "/Users/Shinnosuke/Documents/b5react/lego/src/components/atoms/Card.js",
+              "index": 157,
+              "index2": 156,
+              "size": 618,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [],
+              "issuer": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+              "issuerId": null,
+              "issuerName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+              "issuerPath": [
+                {
+                  "id": 64,
+                  "identifier": "multi /Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapPlugins.js /Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapTemplates.js /Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapApp.js",
+                  "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
+                },
+                {
+                  "id": 128,
+                  "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapTemplates.js",
+                  "name": "../lib/bootstrapTemplates.js"
+                },
+                {
+                  "id": 50,
+                  "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/artifacts/react-static-templates.js",
+                  "name": "/Users/Shinnosuke/Documents/b5react/lego/artifacts/react-static-templates.js"
+                },
+                {
+                  "id": null,
+                  "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+                  "name": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js"
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+                  "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+                  "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+                  "type": "harmony side effect evaluation",
+                  "userRequest": "../components/atoms/Card",
+                  "loc": "2:94-137"
+                },
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+                  "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+                  "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+                  "type": "harmony import specifier",
+                  "userRequest": "../components/atoms/Card",
+                  "loc": "3:2814-2818"
+                },
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+                  "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+                  "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+                  "type": "harmony import specifier",
+                  "userRequest": "../components/atoms/Card",
+                  "loc": "3:2965-2969"
+                }
+              ],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [],
+              "depth": 4,
+              "source": "import _taggedTemplateLiteral from\"@babel/runtime/helpers/taggedTemplateLiteral\";function _templateObject(){var data=_taggedTemplateLiteral([\"\\n    background-color: #fefefe;\\n    box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.2),\\n                0px 1px 1px 0px rgba(0,0,0,0.14),\\n                0px 2px 1px -1px rgba(0,0,0,0.12);\\n\\n    border-radius: 2px;\\n    height: 10rem;\\n    margin-bottom: 2rem;\\n    padding: 1rem;\\n\"]);_templateObject=function _templateObject(){return data;};return data;}import React from'react';import styled from'styled-components';var Card=styled.div(_templateObject());export default Card;"
             }
           ],
           "filteredModules": 0
@@ -1841,18 +1920,18 @@
           "reasons": [
             {
               "moduleId": 63,
-              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
               "type": "harmony side effect evaluation",
               "userRequest": "../../img/legopink.jpg",
               "loc": "2:0-42"
             },
             {
               "moduleId": 63,
-              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
               "type": "harmony import specifier",
               "userRequest": "../../img/legopink.jpg",
               "loc": "2:82-87"
@@ -1867,6 +1946,81 @@
           ],
           "depth": 5,
           "source": "module.exports = __webpack_public_path__ + \"static/legopink.368051a6.jpg\";"
+        },
+        {
+          "id": 147,
+          "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/url-loader/dist/cjs.js??ref--4-oneOf-3!/Users/Shinnosuke/Documents/b5react/lego/src/img/kidplay.jpg",
+          "name": "/Users/Shinnosuke/Documents/b5react/lego/src/img/kidplay.jpg",
+          "index": 158,
+          "index2": 157,
+          "size": 73,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            5
+          ],
+          "issuer": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+          "issuerId": null,
+          "issuerName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+          "issuerPath": [
+            {
+              "id": 64,
+              "identifier": "multi /Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapPlugins.js /Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapTemplates.js /Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapApp.js",
+              "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
+            },
+            {
+              "id": 128,
+              "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
+            },
+            {
+              "id": 50,
+              "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/artifacts/react-static-templates.js",
+              "name": "/Users/Shinnosuke/Documents/b5react/lego/artifacts/react-static-templates.js"
+            },
+            {
+              "id": null,
+              "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+              "name": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [
+            "static/kidplay.fc3a8d5a.jpg"
+          ],
+          "reasons": [
+            {
+              "moduleId": 63,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "type": "harmony side effect evaluation",
+              "userRequest": "../img/kidplay.jpg",
+              "loc": "3:0-37"
+            },
+            {
+              "moduleId": 63,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "type": "harmony import specifier",
+              "userRequest": "../img/kidplay.jpg",
+              "loc": "3:2542-2546"
+            }
+          ],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 4,
+          "source": "module.exports = __webpack_public_path__ + \"static/kidplay.fc3a8d5a.jpg\";"
         }
       ],
       "filteredModules": 0,
@@ -1888,15 +2042,15 @@
       "initial": true,
       "entry": false,
       "reason": "split chunk (cache group: styles) (name: styles)",
-      "size": 535,
+      "size": 1198,
       "names": [
         "styles"
       ],
       "files": [
-        "styles.b1e5e167.css",
-        "templates/styles.b1e5e167.js"
+        "styles.d29fe956.css",
+        "templates/styles.d29fe956.js"
       ],
-      "hash": "b1e5e1675ddf6a3c496e",
+      "hash": "d29fe956167f70a06768",
       "siblings": [
         0,
         7
@@ -1979,7 +2133,7 @@
           "name": "css /Users/Shinnosuke/Documents/b5react/lego/node_modules/css-loader/dist/cjs.js??ref--4-oneOf-2-1!/Users/Shinnosuke/Documents/b5react/lego/node_modules/postcss-loader/src??postcss!/Users/Shinnosuke/Documents/b5react/lego/src/app.css",
           "index": 133,
           "index2": 128,
-          "size": 486,
+          "size": 1149,
           "built": false,
           "optional": false,
           "prefetched": false,
@@ -2059,9 +2213,9 @@
         "vendors~main"
       ],
       "files": [
-        "templates/vendors~main.0bde093d.js"
+        "templates/vendors~main.d1318f72.js"
       ],
-      "hash": "0bde093d960398da2740",
+      "hash": "d1318f723c79b7032e1c",
       "siblings": [
         0,
         6
@@ -2327,7 +2481,7 @@
               "loc": "2336:13-18"
             },
             {
-              "moduleId": 18,
+              "moduleId": 19,
               "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/browser/hooks/useStaticInfo.js",
               "module": "../lib/browser/hooks/useStaticInfo.js",
               "moduleName": "../lib/browser/hooks/useStaticInfo.js",
@@ -3021,75 +3175,264 @@
             },
             {
               "moduleId": 63,
-              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
               "type": "harmony side effect evaluation",
               "userRequest": "react",
               "loc": "1:0-25"
             },
             {
               "moduleId": 63,
-              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "type": "harmony side effect evaluation",
+              "userRequest": "react",
+              "loc": "1:496-521"
+            },
+            {
+              "moduleId": 63,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
               "type": "harmony side effect evaluation",
               "userRequest": "react",
               "loc": "1:590-615"
             },
             {
               "moduleId": 63,
-              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
               "type": "harmony import specifier",
               "userRequest": "react",
-              "loc": "2:127-132"
+              "loc": "3:70-75"
             },
             {
               "moduleId": 63,
-              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
               "type": "harmony import specifier",
               "userRequest": "react",
-              "loc": "2:182-187"
+              "loc": "3:125-130"
             },
             {
               "moduleId": 63,
-              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
               "type": "harmony import specifier",
               "userRequest": "react",
-              "loc": "2:214-219"
+              "loc": "3:157-162"
             },
             {
               "moduleId": 63,
-              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
               "type": "harmony import specifier",
               "userRequest": "react",
-              "loc": "2:271-276"
+              "loc": "3:211-216"
             },
             {
               "moduleId": 63,
-              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
               "type": "harmony import specifier",
               "userRequest": "react",
-              "loc": "2:312-317"
+              "loc": "3:281-286"
             },
             {
               "moduleId": 63,
-              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
               "type": "harmony import specifier",
               "userRequest": "react",
-              "loc": "2:364-369"
+              "loc": "3:387-392"
+            },
+            {
+              "moduleId": 63,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "type": "harmony import specifier",
+              "userRequest": "react",
+              "loc": "3:440-445"
+            },
+            {
+              "moduleId": 63,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "type": "harmony import specifier",
+              "userRequest": "react",
+              "loc": "3:495-500"
+            },
+            {
+              "moduleId": 63,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "type": "harmony import specifier",
+              "userRequest": "react",
+              "loc": "3:545-550"
+            },
+            {
+              "moduleId": 63,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "type": "harmony import specifier",
+              "userRequest": "react",
+              "loc": "3:627-632"
+            },
+            {
+              "moduleId": 63,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "type": "harmony import specifier",
+              "userRequest": "react",
+              "loc": "3:1358-1363"
+            },
+            {
+              "moduleId": 63,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "type": "harmony import specifier",
+              "userRequest": "react",
+              "loc": "3:1415-1420"
+            },
+            {
+              "moduleId": 63,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "type": "harmony import specifier",
+              "userRequest": "react",
+              "loc": "3:1497-1502"
+            },
+            {
+              "moduleId": 63,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "type": "harmony import specifier",
+              "userRequest": "react",
+              "loc": "3:1550-1555"
+            },
+            {
+              "moduleId": 63,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "type": "harmony import specifier",
+              "userRequest": "react",
+              "loc": "3:1600-1605"
+            },
+            {
+              "moduleId": 63,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "type": "harmony import specifier",
+              "userRequest": "react",
+              "loc": "3:1700-1705"
+            },
+            {
+              "moduleId": 63,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "type": "harmony import specifier",
+              "userRequest": "react",
+              "loc": "3:2432-2437"
+            },
+            {
+              "moduleId": 63,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "type": "harmony import specifier",
+              "userRequest": "react",
+              "loc": "3:2482-2487"
+            },
+            {
+              "moduleId": 63,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "type": "harmony import specifier",
+              "userRequest": "react",
+              "loc": "3:2511-2516"
+            },
+            {
+              "moduleId": 63,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "type": "harmony import specifier",
+              "userRequest": "react",
+              "loc": "3:2552-2557"
+            },
+            {
+              "moduleId": 63,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "type": "harmony import specifier",
+              "userRequest": "react",
+              "loc": "3:2609-2614"
+            },
+            {
+              "moduleId": 63,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "type": "harmony import specifier",
+              "userRequest": "react",
+              "loc": "3:2691-2696"
+            },
+            {
+              "moduleId": 63,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "type": "harmony import specifier",
+              "userRequest": "react",
+              "loc": "3:2744-2749"
+            },
+            {
+              "moduleId": 63,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "type": "harmony import specifier",
+              "userRequest": "react",
+              "loc": "3:2794-2799"
+            },
+            {
+              "moduleId": 63,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "type": "harmony import specifier",
+              "userRequest": "react",
+              "loc": "3:2895-2900"
+            },
+            {
+              "moduleId": 63,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "type": "harmony import specifier",
+              "userRequest": "react",
+              "loc": "3:2945-2950"
             },
             {
               "moduleId": 67,
@@ -3602,7 +3945,7 @@
               "loc": "3:29-84"
             },
             {
-              "moduleId": 18,
+              "moduleId": 19,
               "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/browser/hooks/useStaticInfo.js",
               "module": "../lib/browser/hooks/useStaticInfo.js",
               "moduleName": "../lib/browser/hooks/useStaticInfo.js",
@@ -4325,9 +4668,9 @@
           "chunks": [
             7
           ],
-          "issuer": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/@reach/router/es/index.js",
-          "issuerId": null,
-          "issuerName": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/@reach/router/es/index.js",
+          "issuer": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/styled-components/dist/styled-components.browser.esm.js",
+          "issuerId": 17,
+          "issuerName": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/styled-components/dist/styled-components.browser.esm.js",
           "issuerPath": [
             {
               "id": 64,
@@ -4335,24 +4678,24 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 65,
-              "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 128,
+              "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
-              "id": 34,
-              "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/artifacts/react-static-browser-plugins.js",
-              "name": "/Users/Shinnosuke/Documents/b5react/lego/artifacts/react-static-browser-plugins.js"
-            },
-            {
-              "id": 52,
-              "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static-plugin-reach-router/browser.api.js",
-              "name": "..-plugin-reach-router/browser.api.js"
+              "id": 50,
+              "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/artifacts/react-static-templates.js",
+              "name": "/Users/Shinnosuke/Documents/b5react/lego/artifacts/react-static-templates.js"
             },
             {
               "id": null,
-              "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/@reach/router/es/index.js",
-              "name": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/@reach/router/es/index.js"
+              "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+              "name": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js"
+            },
+            {
+              "id": 17,
+              "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/styled-components/dist/styled-components.browser.esm.js",
+              "name": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/styled-components/dist/styled-components.browser.esm.js"
             }
           ],
           "failed": false,
@@ -5491,7 +5834,7 @@
               "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/App.js + 3 modules",
               "type": "harmony side effect evaluation",
               "userRequest": "styled-components",
-              "loc": "1:605-643"
+              "loc": "1:579-617"
             },
             {
               "moduleId": 22,
@@ -5500,49 +5843,67 @@
               "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/App.js + 3 modules",
               "type": "harmony import specifier",
               "userRequest": "styled-components",
-              "loc": "1:654-660"
+              "loc": "1:628-634"
             },
             {
               "moduleId": 63,
-              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
               "type": "harmony side effect evaluation",
               "userRequest": "styled-components",
               "loc": "1:25-63"
             },
             {
               "moduleId": 63,
-              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
               "type": "harmony side effect evaluation",
               "userRequest": "styled-components",
-              "loc": "1:497-535"
+              "loc": "1:516-554"
             },
             {
               "moduleId": 63,
-              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "type": "harmony side effect evaluation",
+              "userRequest": "styled-components",
+              "loc": "1:521-559"
+            },
+            {
+              "moduleId": 63,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "type": "harmony import specifier",
+              "userRequest": "styled-components",
+              "loc": "1:568-574"
+            },
+            {
+              "moduleId": 63,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
               "type": "harmony side effect evaluation",
               "userRequest": "styled-components",
               "loc": "1:615-653"
             },
             {
               "moduleId": 63,
-              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
               "type": "harmony import specifier",
               "userRequest": "styled-components",
               "loc": "1:664-670"
             },
             {
               "moduleId": 63,
-              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
               "type": "harmony import specifier",
               "userRequest": "styled-components",
               "loc": "2:53-59"
@@ -5575,85 +5936,6 @@
         },
         {
           "id": 18,
-          "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/browser/hooks/useStaticInfo.js",
-          "name": "../lib/browser/hooks/useStaticInfo.js",
-          "index": 81,
-          "index2": 76,
-          "size": 624,
-          "cacheable": true,
-          "built": true,
-          "optional": false,
-          "prefetched": false,
-          "chunks": [
-            7
-          ],
-          "issuer": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapApp.js",
-          "issuerId": 135,
-          "issuerName": "../lib/bootstrapApp.js",
-          "issuerPath": [
-            {
-              "id": 64,
-              "identifier": "multi /Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapPlugins.js /Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapTemplates.js /Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapApp.js",
-              "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
-            },
-            {
-              "id": 135,
-              "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapApp.js",
-              "name": "../lib/bootstrapApp.js"
-            }
-          ],
-          "failed": false,
-          "errors": 0,
-          "warnings": 0,
-          "assets": [],
-          "reasons": [
-            {
-              "moduleId": 15,
-              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/index.js",
-              "module": "../lib/index.js",
-              "moduleName": "../lib/index.js",
-              "type": "cjs require",
-              "userRequest": "./browser/hooks/useStaticInfo",
-              "loc": "237:21-61"
-            },
-            {
-              "moduleId": 49,
-              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/browser/hooks/useSiteData.js",
-              "module": "../lib/browser/hooks/useSiteData.js",
-              "moduleName": "../lib/browser/hooks/useSiteData.js",
-              "type": "cjs require",
-              "userRequest": "./useStaticInfo",
-              "loc": "18:21-47"
-            },
-            {
-              "moduleId": 114,
-              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/browser/components/Routes.js",
-              "module": "../lib/browser/components/Routes.js",
-              "moduleName": "../lib/browser/components/Routes.js",
-              "type": "cjs require",
-              "userRequest": "../hooks/useStaticInfo",
-              "loc": "18:21-54"
-            },
-            {
-              "moduleId": 135,
-              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapApp.js",
-              "module": "../lib/bootstrapApp.js",
-              "moduleName": "../lib/bootstrapApp.js",
-              "type": "cjs require",
-              "userRequest": "./browser/hooks/useStaticInfo",
-              "loc": "18:21-61"
-            }
-          ],
-          "usedExports": true,
-          "providedExports": null,
-          "optimizationBailout": [
-            "ModuleConcatenation bailout: Module is not an ECMAScript module"
-          ],
-          "depth": 2,
-          "source": "\"use strict\";\n\nvar _interopRequireDefault = require(\"@babel/runtime/helpers/interopRequireDefault\");\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nObject.defineProperty(exports, \"staticInfoContext\", {\n  enumerable: true,\n  get: function get() {\n    return _staticInfoContext[\"default\"];\n  }\n});\nexports.useStaticInfo = void 0;\n\nvar _react = require(\"react\");\n\nvar _staticInfoContext = _interopRequireDefault(require(\"../context/staticInfoContext\"));\n\nvar useStaticInfo = function useStaticInfo() {\n  return (0, _react.useContext)(_staticInfoContext[\"default\"]);\n};\n\nexports.useStaticInfo = useStaticInfo;"
-        },
-        {
-          "id": 20,
           "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/@babel/runtime/helpers/taggedTemplateLiteral.js",
           "name": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/@babel/runtime/helpers/taggedTemplateLiteral.js",
           "index": 135,
@@ -5739,36 +6021,54 @@
             },
             {
               "moduleId": 63,
-              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
               "type": "harmony side effect evaluation",
               "userRequest": "@babel/runtime/helpers/taggedTemplateLiteral",
               "loc": "1:0-81"
             },
             {
               "moduleId": 63,
-              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
               "type": "harmony side effect evaluation",
               "userRequest": "@babel/runtime/helpers/taggedTemplateLiteral",
               "loc": "1:0-81"
             },
             {
               "moduleId": 63,
-              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "type": "harmony side effect evaluation",
+              "userRequest": "@babel/runtime/helpers/taggedTemplateLiteral",
+              "loc": "1:0-81"
+            },
+            {
+              "moduleId": 63,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
               "type": "harmony import specifier",
               "userRequest": "@babel/runtime/helpers/taggedTemplateLiteral",
               "loc": "1:117-139"
             },
             {
               "moduleId": 63,
-              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "type": "harmony import specifier",
+              "userRequest": "@babel/runtime/helpers/taggedTemplateLiteral",
+              "loc": "1:117-139"
+            },
+            {
+              "moduleId": 63,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
               "type": "harmony import specifier",
               "userRequest": "@babel/runtime/helpers/taggedTemplateLiteral",
               "loc": "1:117-139"
@@ -5783,6 +6083,85 @@
           ],
           "depth": 5,
           "source": "function _taggedTemplateLiteral(strings, raw) {\n  if (!raw) {\n    raw = strings.slice(0);\n  }\n\n  return Object.freeze(Object.defineProperties(strings, {\n    raw: {\n      value: Object.freeze(raw)\n    }\n  }));\n}\n\nmodule.exports = _taggedTemplateLiteral;"
+        },
+        {
+          "id": 19,
+          "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/browser/hooks/useStaticInfo.js",
+          "name": "../lib/browser/hooks/useStaticInfo.js",
+          "index": 81,
+          "index2": 76,
+          "size": 624,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            7
+          ],
+          "issuer": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapApp.js",
+          "issuerId": 135,
+          "issuerName": "../lib/bootstrapApp.js",
+          "issuerPath": [
+            {
+              "id": 64,
+              "identifier": "multi /Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapPlugins.js /Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapTemplates.js /Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapApp.js",
+              "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
+            },
+            {
+              "id": 135,
+              "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapApp.js",
+              "name": "../lib/bootstrapApp.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 15,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/index.js",
+              "module": "../lib/index.js",
+              "moduleName": "../lib/index.js",
+              "type": "cjs require",
+              "userRequest": "./browser/hooks/useStaticInfo",
+              "loc": "237:21-61"
+            },
+            {
+              "moduleId": 49,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/browser/hooks/useSiteData.js",
+              "module": "../lib/browser/hooks/useSiteData.js",
+              "moduleName": "../lib/browser/hooks/useSiteData.js",
+              "type": "cjs require",
+              "userRequest": "./useStaticInfo",
+              "loc": "18:21-47"
+            },
+            {
+              "moduleId": 114,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/browser/components/Routes.js",
+              "module": "../lib/browser/components/Routes.js",
+              "moduleName": "../lib/browser/components/Routes.js",
+              "type": "cjs require",
+              "userRequest": "../hooks/useStaticInfo",
+              "loc": "18:21-54"
+            },
+            {
+              "moduleId": 135,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapApp.js",
+              "module": "../lib/bootstrapApp.js",
+              "moduleName": "../lib/bootstrapApp.js",
+              "type": "cjs require",
+              "userRequest": "./browser/hooks/useStaticInfo",
+              "loc": "18:21-61"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 2,
+          "source": "\"use strict\";\n\nvar _interopRequireDefault = require(\"@babel/runtime/helpers/interopRequireDefault\");\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nObject.defineProperty(exports, \"staticInfoContext\", {\n  enumerable: true,\n  get: function get() {\n    return _staticInfoContext[\"default\"];\n  }\n});\nexports.useStaticInfo = void 0;\n\nvar _react = require(\"react\");\n\nvar _staticInfoContext = _interopRequireDefault(require(\"../context/staticInfoContext\"));\n\nvar useStaticInfo = function useStaticInfo() {\n  return (0, _react.useContext)(_staticInfoContext[\"default\"]);\n};\n\nexports.useStaticInfo = useStaticInfo;"
         },
         {
           "id": 21,
@@ -5808,7 +6187,7 @@
           "assets": [],
           "reasons": [
             {
-              "moduleId": 19,
+              "moduleId": 20,
               "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
               "module": "/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
               "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
@@ -5817,7 +6196,7 @@
               "loc": "1:0-39"
             },
             {
-              "moduleId": 19,
+              "moduleId": 20,
               "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
               "module": "/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
               "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
@@ -5826,7 +6205,7 @@
               "loc": "1:0-39"
             },
             {
-              "moduleId": 19,
+              "moduleId": 20,
               "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
               "module": "/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
               "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
@@ -5911,7 +6290,7 @@
               "assets": [],
               "reasons": [
                 {
-                  "moduleId": 19,
+                  "moduleId": 20,
                   "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
                   "module": "/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
                   "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
@@ -5920,7 +6299,7 @@
                   "loc": "1:0-39"
                 },
                 {
-                  "moduleId": 19,
+                  "moduleId": 20,
                   "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
                   "module": "/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
                   "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
@@ -5929,7 +6308,7 @@
                   "loc": "1:0-39"
                 },
                 {
-                  "moduleId": 19,
+                  "moduleId": 20,
                   "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
                   "module": "/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
                   "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
@@ -12838,7 +13217,7 @@
             7
           ],
           "issuer": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/browser/hooks/useStaticInfo.js",
-          "issuerId": 18,
+          "issuerId": 19,
           "issuerName": "../lib/browser/hooks/useStaticInfo.js",
           "issuerPath": [
             {
@@ -12852,7 +13231,7 @@
               "name": "../lib/bootstrapApp.js"
             },
             {
-              "id": 18,
+              "id": 19,
               "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/browser/hooks/useStaticInfo.js",
               "name": "../lib/browser/hooks/useStaticInfo.js"
             }
@@ -12863,7 +13242,7 @@
           "assets": [],
           "reasons": [
             {
-              "moduleId": 18,
+              "moduleId": 19,
               "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/browser/hooks/useStaticInfo.js",
               "module": "../lib/browser/hooks/useStaticInfo.js",
               "moduleName": "../lib/browser/hooks/useStaticInfo.js",
@@ -14910,7 +15289,7 @@
           "loc": "2336:13-18"
         },
         {
-          "moduleId": 18,
+          "moduleId": 19,
           "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/browser/hooks/useStaticInfo.js",
           "module": "../lib/browser/hooks/useStaticInfo.js",
           "moduleName": "../lib/browser/hooks/useStaticInfo.js",
@@ -15604,75 +15983,264 @@
         },
         {
           "moduleId": 63,
-          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
           "type": "harmony side effect evaluation",
           "userRequest": "react",
           "loc": "1:0-25"
         },
         {
           "moduleId": 63,
-          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony side effect evaluation",
+          "userRequest": "react",
+          "loc": "1:496-521"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
           "type": "harmony side effect evaluation",
           "userRequest": "react",
           "loc": "1:590-615"
         },
         {
           "moduleId": 63,
-          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
           "type": "harmony import specifier",
           "userRequest": "react",
-          "loc": "2:127-132"
+          "loc": "3:70-75"
         },
         {
           "moduleId": 63,
-          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
           "type": "harmony import specifier",
           "userRequest": "react",
-          "loc": "2:182-187"
+          "loc": "3:125-130"
         },
         {
           "moduleId": 63,
-          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
           "type": "harmony import specifier",
           "userRequest": "react",
-          "loc": "2:214-219"
+          "loc": "3:157-162"
         },
         {
           "moduleId": 63,
-          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
           "type": "harmony import specifier",
           "userRequest": "react",
-          "loc": "2:271-276"
+          "loc": "3:211-216"
         },
         {
           "moduleId": 63,
-          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
           "type": "harmony import specifier",
           "userRequest": "react",
-          "loc": "2:312-317"
+          "loc": "3:281-286"
         },
         {
           "moduleId": 63,
-          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
           "type": "harmony import specifier",
           "userRequest": "react",
-          "loc": "2:364-369"
+          "loc": "3:387-392"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony import specifier",
+          "userRequest": "react",
+          "loc": "3:440-445"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony import specifier",
+          "userRequest": "react",
+          "loc": "3:495-500"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony import specifier",
+          "userRequest": "react",
+          "loc": "3:545-550"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony import specifier",
+          "userRequest": "react",
+          "loc": "3:627-632"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony import specifier",
+          "userRequest": "react",
+          "loc": "3:1358-1363"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony import specifier",
+          "userRequest": "react",
+          "loc": "3:1415-1420"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony import specifier",
+          "userRequest": "react",
+          "loc": "3:1497-1502"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony import specifier",
+          "userRequest": "react",
+          "loc": "3:1550-1555"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony import specifier",
+          "userRequest": "react",
+          "loc": "3:1600-1605"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony import specifier",
+          "userRequest": "react",
+          "loc": "3:1700-1705"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony import specifier",
+          "userRequest": "react",
+          "loc": "3:2432-2437"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony import specifier",
+          "userRequest": "react",
+          "loc": "3:2482-2487"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony import specifier",
+          "userRequest": "react",
+          "loc": "3:2511-2516"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony import specifier",
+          "userRequest": "react",
+          "loc": "3:2552-2557"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony import specifier",
+          "userRequest": "react",
+          "loc": "3:2609-2614"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony import specifier",
+          "userRequest": "react",
+          "loc": "3:2691-2696"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony import specifier",
+          "userRequest": "react",
+          "loc": "3:2744-2749"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony import specifier",
+          "userRequest": "react",
+          "loc": "3:2794-2799"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony import specifier",
+          "userRequest": "react",
+          "loc": "3:2895-2900"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony import specifier",
+          "userRequest": "react",
+          "loc": "3:2945-2950"
         },
         {
           "moduleId": 67,
@@ -16185,7 +16753,7 @@
           "loc": "3:29-84"
         },
         {
-          "moduleId": 18,
+          "moduleId": 19,
           "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/browser/hooks/useStaticInfo.js",
           "module": "../lib/browser/hooks/useStaticInfo.js",
           "moduleName": "../lib/browser/hooks/useStaticInfo.js",
@@ -16908,9 +17476,9 @@
       "chunks": [
         7
       ],
-      "issuer": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/@reach/router/es/index.js",
-      "issuerId": null,
-      "issuerName": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/@reach/router/es/index.js",
+      "issuer": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/styled-components/dist/styled-components.browser.esm.js",
+      "issuerId": 17,
+      "issuerName": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/styled-components/dist/styled-components.browser.esm.js",
       "issuerPath": [
         {
           "id": 64,
@@ -16918,24 +17486,24 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 65,
-          "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 128,
+          "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
-          "id": 34,
-          "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/artifacts/react-static-browser-plugins.js",
-          "name": "/Users/Shinnosuke/Documents/b5react/lego/artifacts/react-static-browser-plugins.js"
-        },
-        {
-          "id": 52,
-          "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static-plugin-reach-router/browser.api.js",
-          "name": "..-plugin-reach-router/browser.api.js"
+          "id": 50,
+          "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/artifacts/react-static-templates.js",
+          "name": "/Users/Shinnosuke/Documents/b5react/lego/artifacts/react-static-templates.js"
         },
         {
           "id": null,
-          "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/@reach/router/es/index.js",
-          "name": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/@reach/router/es/index.js"
+          "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+          "name": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js"
+        },
+        {
+          "id": 17,
+          "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/styled-components/dist/styled-components.browser.esm.js",
+          "name": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/styled-components/dist/styled-components.browser.esm.js"
         }
       ],
       "failed": false,
@@ -18074,7 +18642,7 @@
           "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/App.js + 3 modules",
           "type": "harmony side effect evaluation",
           "userRequest": "styled-components",
-          "loc": "1:605-643"
+          "loc": "1:579-617"
         },
         {
           "moduleId": 22,
@@ -18083,49 +18651,67 @@
           "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/App.js + 3 modules",
           "type": "harmony import specifier",
           "userRequest": "styled-components",
-          "loc": "1:654-660"
+          "loc": "1:628-634"
         },
         {
           "moduleId": 63,
-          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
           "type": "harmony side effect evaluation",
           "userRequest": "styled-components",
           "loc": "1:25-63"
         },
         {
           "moduleId": 63,
-          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
           "type": "harmony side effect evaluation",
           "userRequest": "styled-components",
-          "loc": "1:497-535"
+          "loc": "1:516-554"
         },
         {
           "moduleId": 63,
-          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony side effect evaluation",
+          "userRequest": "styled-components",
+          "loc": "1:521-559"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony import specifier",
+          "userRequest": "styled-components",
+          "loc": "1:568-574"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
           "type": "harmony side effect evaluation",
           "userRequest": "styled-components",
           "loc": "1:615-653"
         },
         {
           "moduleId": 63,
-          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
           "type": "harmony import specifier",
           "userRequest": "styled-components",
           "loc": "1:664-670"
         },
         {
           "moduleId": 63,
-          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
           "type": "harmony import specifier",
           "userRequest": "styled-components",
           "loc": "2:53-59"
@@ -18158,6 +18744,156 @@
     },
     {
       "id": 18,
+      "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/@babel/runtime/helpers/taggedTemplateLiteral.js",
+      "name": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/@babel/runtime/helpers/taggedTemplateLiteral.js",
+      "index": 135,
+      "index2": 130,
+      "size": 252,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        7
+      ],
+      "issuer": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/components/atoms/HeroBG.js",
+      "issuerId": null,
+      "issuerName": "/Users/Shinnosuke/Documents/b5react/lego/src/components/atoms/HeroBG.js",
+      "issuerPath": [
+        {
+          "id": 64,
+          "identifier": "multi /Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapPlugins.js /Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapTemplates.js /Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapApp.js",
+          "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
+        },
+        {
+          "id": 128,
+          "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
+        },
+        {
+          "id": 50,
+          "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/artifacts/react-static-templates.js",
+          "name": "/Users/Shinnosuke/Documents/b5react/lego/artifacts/react-static-templates.js"
+        },
+        {
+          "id": null,
+          "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+          "name": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js"
+        },
+        {
+          "id": null,
+          "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/components/atoms/HeroBG.js",
+          "name": "/Users/Shinnosuke/Documents/b5react/lego/src/components/atoms/HeroBG.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 22,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/App.js 72bcd5544b2c862c851c73c0a4aad92a",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/App.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/App.js + 3 modules",
+          "type": "harmony side effect evaluation",
+          "userRequest": "@babel/runtime/helpers/taggedTemplateLiteral",
+          "loc": "1:0-81"
+        },
+        {
+          "moduleId": 22,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/App.js 72bcd5544b2c862c851c73c0a4aad92a",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/App.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/App.js + 3 modules",
+          "type": "harmony side effect evaluation",
+          "userRequest": "@babel/runtime/helpers/taggedTemplateLiteral",
+          "loc": "1:0-81"
+        },
+        {
+          "moduleId": 22,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/App.js 72bcd5544b2c862c851c73c0a4aad92a",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/App.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/App.js + 3 modules",
+          "type": "harmony import specifier",
+          "userRequest": "@babel/runtime/helpers/taggedTemplateLiteral",
+          "loc": "1:117-139"
+        },
+        {
+          "moduleId": 22,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/App.js 72bcd5544b2c862c851c73c0a4aad92a",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/App.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/App.js + 3 modules",
+          "type": "harmony import specifier",
+          "userRequest": "@babel/runtime/helpers/taggedTemplateLiteral",
+          "loc": "1:117-139"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony side effect evaluation",
+          "userRequest": "@babel/runtime/helpers/taggedTemplateLiteral",
+          "loc": "1:0-81"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony side effect evaluation",
+          "userRequest": "@babel/runtime/helpers/taggedTemplateLiteral",
+          "loc": "1:0-81"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony side effect evaluation",
+          "userRequest": "@babel/runtime/helpers/taggedTemplateLiteral",
+          "loc": "1:0-81"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony import specifier",
+          "userRequest": "@babel/runtime/helpers/taggedTemplateLiteral",
+          "loc": "1:117-139"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony import specifier",
+          "userRequest": "@babel/runtime/helpers/taggedTemplateLiteral",
+          "loc": "1:117-139"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony import specifier",
+          "userRequest": "@babel/runtime/helpers/taggedTemplateLiteral",
+          "loc": "1:117-139"
+        }
+      ],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 5,
+      "source": "function _taggedTemplateLiteral(strings, raw) {\n  if (!raw) {\n    raw = strings.slice(0);\n  }\n\n  return Object.freeze(Object.defineProperties(strings, {\n    raw: {\n      value: Object.freeze(raw)\n    }\n  }));\n}\n\nmodule.exports = _taggedTemplateLiteral;"
+    },
+    {
+      "id": 19,
       "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/browser/hooks/useStaticInfo.js",
       "name": "../lib/browser/hooks/useStaticInfo.js",
       "index": 81,
@@ -18236,7 +18972,7 @@
       "source": "\"use strict\";\n\nvar _interopRequireDefault = require(\"@babel/runtime/helpers/interopRequireDefault\");\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nObject.defineProperty(exports, \"staticInfoContext\", {\n  enumerable: true,\n  get: function get() {\n    return _staticInfoContext[\"default\"];\n  }\n});\nexports.useStaticInfo = void 0;\n\nvar _react = require(\"react\");\n\nvar _staticInfoContext = _interopRequireDefault(require(\"../context/staticInfoContext\"));\n\nvar useStaticInfo = function useStaticInfo() {\n  return (0, _react.useContext)(_staticInfoContext[\"default\"]);\n};\n\nexports.useStaticInfo = useStaticInfo;"
     },
     {
-      "id": 19,
+      "id": 20,
       "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
       "name": "/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
       "index": 130,
@@ -18365,138 +19101,6 @@
       "source": "export{Link,Router}from'@reach/router';"
     },
     {
-      "id": 20,
-      "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/@babel/runtime/helpers/taggedTemplateLiteral.js",
-      "name": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/@babel/runtime/helpers/taggedTemplateLiteral.js",
-      "index": 135,
-      "index2": 130,
-      "size": 252,
-      "cacheable": true,
-      "built": true,
-      "optional": false,
-      "prefetched": false,
-      "chunks": [
-        7
-      ],
-      "issuer": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/components/atoms/HeroBG.js",
-      "issuerId": null,
-      "issuerName": "/Users/Shinnosuke/Documents/b5react/lego/src/components/atoms/HeroBG.js",
-      "issuerPath": [
-        {
-          "id": 64,
-          "identifier": "multi /Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapPlugins.js /Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapTemplates.js /Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapApp.js",
-          "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
-        },
-        {
-          "id": 128,
-          "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
-        },
-        {
-          "id": 50,
-          "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/artifacts/react-static-templates.js",
-          "name": "/Users/Shinnosuke/Documents/b5react/lego/artifacts/react-static-templates.js"
-        },
-        {
-          "id": null,
-          "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
-          "name": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js"
-        },
-        {
-          "id": null,
-          "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/components/atoms/HeroBG.js",
-          "name": "/Users/Shinnosuke/Documents/b5react/lego/src/components/atoms/HeroBG.js"
-        }
-      ],
-      "failed": false,
-      "errors": 0,
-      "warnings": 0,
-      "assets": [],
-      "reasons": [
-        {
-          "moduleId": 22,
-          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/App.js 72bcd5544b2c862c851c73c0a4aad92a",
-          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/App.js + 3 modules",
-          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/App.js + 3 modules",
-          "type": "harmony side effect evaluation",
-          "userRequest": "@babel/runtime/helpers/taggedTemplateLiteral",
-          "loc": "1:0-81"
-        },
-        {
-          "moduleId": 22,
-          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/App.js 72bcd5544b2c862c851c73c0a4aad92a",
-          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/App.js + 3 modules",
-          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/App.js + 3 modules",
-          "type": "harmony side effect evaluation",
-          "userRequest": "@babel/runtime/helpers/taggedTemplateLiteral",
-          "loc": "1:0-81"
-        },
-        {
-          "moduleId": 22,
-          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/App.js 72bcd5544b2c862c851c73c0a4aad92a",
-          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/App.js + 3 modules",
-          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/App.js + 3 modules",
-          "type": "harmony import specifier",
-          "userRequest": "@babel/runtime/helpers/taggedTemplateLiteral",
-          "loc": "1:117-139"
-        },
-        {
-          "moduleId": 22,
-          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/App.js 72bcd5544b2c862c851c73c0a4aad92a",
-          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/App.js + 3 modules",
-          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/App.js + 3 modules",
-          "type": "harmony import specifier",
-          "userRequest": "@babel/runtime/helpers/taggedTemplateLiteral",
-          "loc": "1:117-139"
-        },
-        {
-          "moduleId": 63,
-          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-          "type": "harmony side effect evaluation",
-          "userRequest": "@babel/runtime/helpers/taggedTemplateLiteral",
-          "loc": "1:0-81"
-        },
-        {
-          "moduleId": 63,
-          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-          "type": "harmony side effect evaluation",
-          "userRequest": "@babel/runtime/helpers/taggedTemplateLiteral",
-          "loc": "1:0-81"
-        },
-        {
-          "moduleId": 63,
-          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-          "type": "harmony import specifier",
-          "userRequest": "@babel/runtime/helpers/taggedTemplateLiteral",
-          "loc": "1:117-139"
-        },
-        {
-          "moduleId": 63,
-          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-          "type": "harmony import specifier",
-          "userRequest": "@babel/runtime/helpers/taggedTemplateLiteral",
-          "loc": "1:117-139"
-        }
-      ],
-      "usedExports": [
-        "default"
-      ],
-      "providedExports": null,
-      "optimizationBailout": [
-        "ModuleConcatenation bailout: Module is not an ECMAScript module"
-      ],
-      "depth": 5,
-      "source": "function _taggedTemplateLiteral(strings, raw) {\n  if (!raw) {\n    raw = strings.slice(0);\n  }\n\n  return Object.freeze(Object.defineProperties(strings, {\n    raw: {\n      value: Object.freeze(raw)\n    }\n  }));\n}\n\nmodule.exports = _taggedTemplateLiteral;"
-    },
-    {
       "id": 21,
       "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/@reach/router/es/index.js 1e659935efd75bea769be4b03eda36c1",
       "name": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/@reach/router/es/index.js + 3 modules",
@@ -18520,7 +19124,7 @@
       "assets": [],
       "reasons": [
         {
-          "moduleId": 19,
+          "moduleId": 20,
           "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
           "module": "/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
           "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
@@ -18529,7 +19133,7 @@
           "loc": "1:0-39"
         },
         {
-          "moduleId": 19,
+          "moduleId": 20,
           "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
           "module": "/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
           "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
@@ -18538,7 +19142,7 @@
           "loc": "1:0-39"
         },
         {
-          "moduleId": 19,
+          "moduleId": 20,
           "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
           "module": "/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
           "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
@@ -18623,7 +19227,7 @@
           "assets": [],
           "reasons": [
             {
-              "moduleId": 19,
+              "moduleId": 20,
               "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
               "module": "/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
               "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
@@ -18632,7 +19236,7 @@
               "loc": "1:0-39"
             },
             {
-              "moduleId": 19,
+              "moduleId": 20,
               "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
               "module": "/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
               "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
@@ -18641,7 +19245,7 @@
               "loc": "1:0-39"
             },
             {
-              "moduleId": 19,
+              "moduleId": 20,
               "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
               "module": "/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
               "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/components/Router.js",
@@ -19042,7 +19646,7 @@
       "name": "/Users/Shinnosuke/Documents/b5react/lego/src/App.js + 3 modules",
       "index": 129,
       "index2": 144,
-      "size": 2314,
+      "size": 2288,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -19272,7 +19876,7 @@
           "name": "/Users/Shinnosuke/Documents/b5react/lego/src/components/atoms/Navbar.js",
           "index": 134,
           "index2": 142,
-          "size": 706,
+          "size": 680,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -19335,7 +19939,7 @@
           ],
           "optimizationBailout": [],
           "depth": 4,
-          "source": "import _taggedTemplateLiteral from\"@babel/runtime/helpers/taggedTemplateLiteral\";function _templateObject(){var data=_taggedTemplateLiteral([\"\\n    width: 100%;\\n    height: 2rem;\\n    color: rgba(0, 0, 0, 0.54);\\n    background-color: white;\\n    padding: 1rem;\\n    box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.2),\\n                0px 1px 1px 0px rgba(0,0,0,0.14),\\n                0px 2px 1px -1px rgba(0,0,0,0.12);\\n    display: flex;\\n    align-items: center;\\n    position: fixed;\\n    z-index: 1000;\\n    margin-bottom: 3rem;\\n\"]);_templateObject=function _templateObject(){return data;};return data;}import styled from'styled-components';var Navbar=styled.div(_templateObject());export default Navbar;"
+          "source": "import _taggedTemplateLiteral from\"@babel/runtime/helpers/taggedTemplateLiteral\";function _templateObject(){var data=_taggedTemplateLiteral([\"\\n    width: 100%;\\n    height: 2rem;\\n    color: rgba(0, 0, 0, 0.54);\\n    background-color: white;\\n    padding: 1rem;\\n    box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.2),\\n                0px 1px 1px 0px rgba(0,0,0,0.14),\\n                0px 2px 1px -1px rgba(0,0,0,0.12);\\n    display: flex;\\n    align-items: center;\\n    position: fixed;\\n    z-index: 1000;\\n\"]);_templateObject=function _templateObject(){return data;};return data;}import styled from'styled-components';var Navbar=styled.div(_templateObject());export default Navbar;"
         },
         {
           "id": null,
@@ -22779,8 +23383,8 @@
       "id": 62,
       "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/containers/Post.js",
       "name": "/Users/Shinnosuke/Documents/b5react/lego/src/containers/Post.js",
-      "index": 157,
-      "index2": 157,
+      "index": 159,
+      "index2": 159,
       "size": 396,
       "cacheable": true,
       "built": true,
@@ -22845,11 +23449,11 @@
     },
     {
       "id": 63,
-      "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-      "name": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+      "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+      "name": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
       "index": 153,
-      "index2": 156,
-      "size": 2016,
+      "index2": 158,
+      "size": 5406,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -22893,6 +23497,7 @@
         "ModuleConcatenation bailout: Cannot concat with /Users/Shinnosuke/Documents/b5react/lego/node_modules/@babel/runtime/helpers/taggedTemplateLiteral.js (<- Module is not an ECMAScript module)",
         "ModuleConcatenation bailout: Cannot concat with /Users/Shinnosuke/Documents/b5react/lego/node_modules/react/index.js (<- Module is not an ECMAScript module)",
         "ModuleConcatenation bailout: Cannot concat with /Users/Shinnosuke/Documents/b5react/lego/node_modules/styled-components/dist/styled-components.browser.esm.js (<- Module uses injected variables (process))",
+        "ModuleConcatenation bailout: Cannot concat with /Users/Shinnosuke/Documents/b5react/lego/src/img/kidplay.jpg (<- Module is not an ECMAScript module)",
         "ModuleConcatenation bailout: Cannot concat with /Users/Shinnosuke/Documents/b5react/lego/src/img/legopink.jpg (<- Module is not an ECMAScript module)"
       ],
       "depth": 3,
@@ -22902,8 +23507,8 @@
           "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
           "name": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
           "index": 153,
-          "index2": 156,
-          "size": 480,
+          "index2": 158,
+          "size": 3240,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -22961,7 +23566,7 @@
             "ModuleConcatenation bailout: Module is referenced from these modules with unsupported syntax: /Users/Shinnosuke/Documents/b5react/lego/artifacts/react-static-templates.js (referenced with import(), require.resolve)"
           ],
           "depth": 3,
-          "source": "import React from'react';import styled from'styled-components';//\nimport Button from'../components/atoms/Button';import HeroBG from'../components/atoms/HeroBG';export default(function(){return React.createElement(\"div\",{style:{textAlign:'center'}},React.createElement(HeroBG,null,React.createElement(\"h1\",null,\"Welcome to React-Static\"),React.createElement(Button,null,\"Test!\"),React.createElement(Button,{primary:true},\"Test!\")),React.createElement(\"h2\",null,\"this is test\"));});"
+          "source": "import React from'react';import styled from'styled-components';//\nimport Button from'../components/atoms/Button';import HeroBG from'../components/atoms/HeroBG';import Card from'../components/atoms/Card';//\nimport imge from'../img/kidplay.jpg';export default(function(){return React.createElement(\"div\",{style:{textAlign:'center'}},React.createElement(HeroBG,null,React.createElement(\"div\",{className:\"is-margin-top\"},React.createElement(\"h1\",null,\"\\u30EC\\u30B4\\u308C\\u3054\\u30EC\\u3054\"),React.createElement(\"h2\",null,\"\\u3053\\u3053\\u306B\\u30B5\\u30D6\\u30BF\\u30A4\\u30C8\\u30EB\\u306F\\u5165\\u308B\"),React.createElement(Button,{primary:true},\"Test!\"))),React.createElement(\"div\",{className:\"is-margin-top\"}),React.createElement(\"div\",{className:\"container\"},React.createElement(\"h2\",null,\"\\u3053\\u3053\\u306B\\u6982\\u8981\\u304C\\u304F\\u308B\"),React.createElement(\"p\",null,\"\\u3053\\u3053\\u306B\\u6982\\u8981\\u3092\\u8AAC\\u660E\\u3059\\u308B\\u30C6\\u30AD\\u30B9\\u30C8\\u304C\\u305A\\u3089\\u308A\\u3002 CSS3\\u3067\\u306F :first-child \\u3084 :nth-child \\u3001 :not() \\u306E\\u3088\\u3046\\u306A\\u64EC\\u4F3C\\u30AF\\u30E9\\u30B9\\u3067\\u67D4\\u8EDF\\u306B\\u30BB\\u30EC\\u30AF\\u30BF\\u3092\\u6307\\u5B9A\\u3059\\u308B\\u3053\\u3068\\u304C\\u3067\\u304D\\u307E\\u3059\\u3002 ... \\u4F8B\\u3048\\u3070\\u4E0A\\u8A18\\u306E\\u3088\\u3046\\u306B :first-child \\u3067\\u6307\\u5B9A\\u3057\\u305F\\u5834\\u5408\\u3001\\u76F4\\u8FD1\\u306E\\u5B50\\u8981\\u7D20\\u306B\\u30BB\\u30EC\\u30AF\\u30BF\\u3067\\u6307\\u5B9A\\u3057\\u3066\\u3044\\u308B\\u3082\\u306E\\u4EE5\\u5916\\u306E\\u8981\\u7D20\\u304C\\u3042\\u308B\\u3068\\u3001\\u671F\\u5F85\\u3069\\u304A\\u308A\\u306B ...\"),React.createElement(\"div\",{className:\"is-margin-top-4\"}),React.createElement(\"h2\",null,\"\\u3053\\u3053\\u306B\\u6982\\u8981\\u304C\\u304F\\u308B\"),React.createElement(\"div\",{className:\"is-flex-grid\"},React.createElement(\"div\",{className:\"is-flex-1\"},React.createElement(\"h3\",null,\"\\u3053\\u3053\\u306B\\u30C6\\u30AD\\u30B9\\u30C8\\u30BF\\u30A4\\u30C8\\u30EB\"),React.createElement(\"p\",null,\"\\u3053\\u3053\\u306B\\u6982\\u8981\\u3092\\u8AAC\\u660E\\u3059\\u308B\\u30C6\\u30AD\\u30B9\\u30C8\\u304C\\u305A\\u3089\\u308A\\u3002 CSS3\\u3067\\u306F :first-child \\u3084 :nth-child \\u3001 :not() \\u306E\\u3088\\u3046\\u306A\\u64EC\\u4F3C\\u30AF\\u30E9\\u30B9\\u3067\\u67D4\\u8EDF\\u306B\\u30BB\\u30EC\\u30AF\\u30BF\\u3092\\u6307\\u5B9A\\u3059\\u308B\\u3053\\u3068\\u304C\\u3067\\u304D\\u307E\\u3059\\u3002 ... \\u4F8B\\u3048\\u3070\\u4E0A\\u8A18\\u306E\\u3088\\u3046\\u306B :first-child \\u3067\\u6307\\u5B9A\\u3057\\u305F\\u5834\\u5408\\u3001\\u76F4\\u8FD1\\u306E\\u5B50\\u8981\\u7D20\\u306B\\u30BB\\u30EC\\u30AF\\u30BF\\u3067\\u6307\\u5B9A\\u3057\\u3066\\u3044\\u308B\\u3082\\u306E\\u4EE5\\u5916\\u306E\\u8981\\u7D20\\u304C\\u3042\\u308B\\u3068\\u3001\\u671F\\u5F85\\u3069\\u304A\\u308A\\u306B ...\")),React.createElement(\"div\",{className:\"is-flex-1\"},React.createElement(\"p\",null,React.createElement(\"img\",{src:imge})))),React.createElement(\"div\",{className:\"is-margin-top-4\"}),React.createElement(\"h2\",null,\"\\u3053\\u3053\\u306B\\u6982\\u8981\\u304C\\u304F\\u308B\"),React.createElement(\"div\",{className:\"is-flex-grid\"},React.createElement(\"div\",{className:\"is-flex-1\"},React.createElement(Card,null,\"\\u3053\\u3053\\u306B\\u30C6\\u30AD\\u30B9\\u30C8\\u30BF\\u30A4\\u30C8\\u30EB\")),React.createElement(\"div\",{className:\"is-flex-1\"},React.createElement(Card,null,\"\\u3053\\u3063\\u3061\\u306F\\u30A4\\u30E1\\u30FC\\u30B8\")))));});"
         },
         {
           "id": null,
@@ -22969,7 +23574,7 @@
           "name": "/Users/Shinnosuke/Documents/b5react/lego/src/components/atoms/Button.js",
           "index": 154,
           "index2": 153,
-          "size": 845,
+          "size": 833,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -23021,16 +23626,7 @@
               "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
               "type": "harmony import specifier",
               "userRequest": "../components/atoms/Button",
-              "loc": "2:291-297"
-            },
-            {
-              "moduleId": null,
-              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
-              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
-              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
-              "type": "harmony import specifier",
-              "userRequest": "../components/atoms/Button",
-              "loc": "2:332-338"
+              "loc": "3:407-413"
             }
           ],
           "usedExports": [
@@ -23041,7 +23637,7 @@
           ],
           "optimizationBailout": [],
           "depth": 4,
-          "source": "import _taggedTemplateLiteral from\"@babel/runtime/helpers/taggedTemplateLiteral\";function _templateObject(){var data=_taggedTemplateLiteral([\"\\n    /* Adapt the colors based on primary prop */\\n    background: \",\";\\n    color: \",\";\\n\\n    font-size: 1em;\\n    margin: 1em;\\n    padding: 0.25em 1em;\\n    border: 2px solid palevioletred;\\n    border-radius: 3px;\\n    box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.2),\\n                0px 1px 1px 0px rgba(0,0,0,0.14),\\n                0px 2px 1px -1px rgba(0,0,0,0.12);\\n\"]);_templateObject=function _templateObject(){return data;};return data;}import React from'react';import styled from'styled-components';var Button=styled.button(_templateObject(),function(props){return props.primary?\"palevioletred\":\"white\";},function(props){return props.primary?\"white\":\"palevioletred\";});export default Button;"
+          "source": "import _taggedTemplateLiteral from\"@babel/runtime/helpers/taggedTemplateLiteral\";function _templateObject(){var data=_taggedTemplateLiteral([\"\\n    /* Adapt the colors based on primary prop */\\n    background: \",\";\\n    color: \",\";\\n\\n    font-size: 1em;\\n    margin: 1em;\\n    padding: 0.25em 1em;\\n    border: 0px solid palevioletred;\\n    border-radius: 3px;\\n    box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.2),\\n                0px 1px 1px 0px rgba(0,0,0,0.14),\\n                0px 2px 1px -1px rgba(0,0,0,0.12);\\n\"]);_templateObject=function _templateObject(){return data;};return data;}import React from'react';import styled from'styled-components';var Button=styled.button(_templateObject(),function(props){return props.primary?\"#2976D2\":\"white\";},function(props){return props.primary?\"white\":\"#2976D2\";});export default Button;"
         },
         {
           "id": null,
@@ -23049,7 +23645,7 @@
           "name": "/Users/Shinnosuke/Documents/b5react/lego/src/components/atoms/HeroBG.js",
           "index": 155,
           "index2": 155,
-          "size": 671,
+          "size": 690,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -23101,7 +23697,7 @@
               "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
               "type": "harmony import specifier",
               "userRequest": "../components/atoms/HeroBG",
-              "loc": "2:202-208"
+              "loc": "3:145-151"
             }
           ],
           "usedExports": [
@@ -23112,7 +23708,87 @@
           ],
           "optimizationBailout": [],
           "depth": 4,
-          "source": "import _taggedTemplateLiteral from\"@babel/runtime/helpers/taggedTemplateLiteral\";function _templateObject(){var data=_taggedTemplateLiteral([\"\\n    width: 100%;\\n    height: 300px;\\n    background-image: url(\",\");\\n    background-size: cover;\\n    background-position: center;\\n    /* flex */\\n    display: flex;\\n    align-items: center;\\n    flex-flow: column;\\n    /* fix the hight of Navbar */\\n    padding-top: 4rem;\\n\"]);_templateObject=function _templateObject(){return data;};return data;}import styled from'styled-components';// Background Image pass\nimport image from'../../img/legopink.jpg';var HeroBG=styled.div(_templateObject(),image);export default HeroBG;"
+          "source": "import _taggedTemplateLiteral from\"@babel/runtime/helpers/taggedTemplateLiteral\";function _templateObject(){var data=_taggedTemplateLiteral([\"\\n    width: 100%;\\n    height: 300px;\\n    background-image: url(\",\");\\n    background-size: cover;\\n    background-position: center;\\n    color: white;\\n    /* flex */\\n    display: flex;\\n    align-items: center;\\n    flex-flow: column;\\n    /* fix the hight of Navbar */\\n    padding-top: 4rem;\\n\"]);_templateObject=function _templateObject(){return data;};return data;}import styled from'styled-components';// Background Image pass\nimport image from'../../img/legopink.jpg';var HeroBG=styled.div(_templateObject(),image);export default HeroBG;"
+        },
+        {
+          "id": null,
+          "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/components/atoms/Card.js",
+          "name": "/Users/Shinnosuke/Documents/b5react/lego/src/components/atoms/Card.js",
+          "index": 157,
+          "index2": 156,
+          "size": 618,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+          "issuerId": null,
+          "issuerName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+          "issuerPath": [
+            {
+              "id": 64,
+              "identifier": "multi /Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapPlugins.js /Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapTemplates.js /Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapApp.js",
+              "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
+            },
+            {
+              "id": 128,
+              "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
+            },
+            {
+              "id": 50,
+              "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/artifacts/react-static-templates.js",
+              "name": "/Users/Shinnosuke/Documents/b5react/lego/artifacts/react-static-templates.js"
+            },
+            {
+              "id": null,
+              "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+              "name": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": null,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "../components/atoms/Card",
+              "loc": "2:94-137"
+            },
+            {
+              "moduleId": null,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+              "type": "harmony import specifier",
+              "userRequest": "../components/atoms/Card",
+              "loc": "3:2814-2818"
+            },
+            {
+              "moduleId": null,
+              "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+              "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+              "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+              "type": "harmony import specifier",
+              "userRequest": "../components/atoms/Card",
+              "loc": "3:2965-2969"
+            }
+          ],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [],
+          "depth": 4,
+          "source": "import _taggedTemplateLiteral from\"@babel/runtime/helpers/taggedTemplateLiteral\";function _templateObject(){var data=_taggedTemplateLiteral([\"\\n    background-color: #fefefe;\\n    box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.2),\\n                0px 1px 1px 0px rgba(0,0,0,0.14),\\n                0px 2px 1px -1px rgba(0,0,0,0.12);\\n\\n    border-radius: 2px;\\n    height: 10rem;\\n    margin-bottom: 2rem;\\n    padding: 1rem;\\n\"]);_templateObject=function _templateObject(){return data;};return data;}import React from'react';import styled from'styled-components';var Card=styled.div(_templateObject());export default Card;"
         }
       ],
       "filteredModules": 0
@@ -26662,7 +27338,7 @@
         7
       ],
       "issuer": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/browser/hooks/useStaticInfo.js",
-      "issuerId": 18,
+      "issuerId": 19,
       "issuerName": "../lib/browser/hooks/useStaticInfo.js",
       "issuerPath": [
         {
@@ -26676,7 +27352,7 @@
           "name": "../lib/bootstrapApp.js"
         },
         {
-          "id": 18,
+          "id": 19,
           "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/browser/hooks/useStaticInfo.js",
           "name": "../lib/browser/hooks/useStaticInfo.js"
         }
@@ -26687,7 +27363,7 @@
       "assets": [],
       "reasons": [
         {
-          "moduleId": 18,
+          "moduleId": 19,
           "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/browser/hooks/useStaticInfo.js",
           "module": "../lib/browser/hooks/useStaticInfo.js",
           "moduleName": "../lib/browser/hooks/useStaticInfo.js",
@@ -28707,18 +29383,18 @@
       "reasons": [
         {
           "moduleId": 63,
-          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
           "type": "harmony side effect evaluation",
           "userRequest": "../../img/legopink.jpg",
           "loc": "2:0-42"
         },
         {
           "moduleId": 63,
-          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js c8a24f15437789d2b021738d4d3a13fc",
-          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
-          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 2 modules",
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
           "type": "harmony import specifier",
           "userRequest": "../../img/legopink.jpg",
           "loc": "2:82-87"
@@ -28735,12 +29411,87 @@
       "source": "module.exports = __webpack_public_path__ + \"static/legopink.368051a6.jpg\";"
     },
     {
+      "id": 147,
+      "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/url-loader/dist/cjs.js??ref--4-oneOf-3!/Users/Shinnosuke/Documents/b5react/lego/src/img/kidplay.jpg",
+      "name": "/Users/Shinnosuke/Documents/b5react/lego/src/img/kidplay.jpg",
+      "index": 158,
+      "index2": 157,
+      "size": 73,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        5
+      ],
+      "issuer": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+      "issuerId": null,
+      "issuerName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+      "issuerPath": [
+        {
+          "id": 64,
+          "identifier": "multi /Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapPlugins.js /Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapTemplates.js /Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapApp.js",
+          "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
+        },
+        {
+          "id": 128,
+          "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/Shinnosuke/Documents/b5react/lego/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
+        },
+        {
+          "id": 50,
+          "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/artifacts/react-static-templates.js",
+          "name": "/Users/Shinnosuke/Documents/b5react/lego/artifacts/react-static-templates.js"
+        },
+        {
+          "id": null,
+          "identifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js",
+          "name": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [
+        "static/kidplay.fc3a8d5a.jpg"
+      ],
+      "reasons": [
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony side effect evaluation",
+          "userRequest": "../img/kidplay.jpg",
+          "loc": "3:0-37"
+        },
+        {
+          "moduleId": 63,
+          "moduleIdentifier": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/babel-loader/lib/index.js??ref--4-oneOf-0-0!/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js 12dfe423ef7cbede46823459c3f1026f",
+          "module": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "moduleName": "/Users/Shinnosuke/Documents/b5react/lego/src/pages/index.js + 3 modules",
+          "type": "harmony import specifier",
+          "userRequest": "../img/kidplay.jpg",
+          "loc": "3:2542-2546"
+        }
+      ],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 4,
+      "source": "module.exports = __webpack_public_path__ + \"static/kidplay.fc3a8d5a.jpg\";"
+    },
+    {
       "id": "",
       "identifier": "css /Users/Shinnosuke/Documents/b5react/lego/node_modules/css-loader/dist/cjs.js??ref--4-oneOf-2-1!/Users/Shinnosuke/Documents/b5react/lego/node_modules/postcss-loader/src/index.js??postcss!/Users/Shinnosuke/Documents/b5react/lego/src/app.css 0",
       "name": "css /Users/Shinnosuke/Documents/b5react/lego/node_modules/css-loader/dist/cjs.js??ref--4-oneOf-2-1!/Users/Shinnosuke/Documents/b5react/lego/node_modules/postcss-loader/src??postcss!/Users/Shinnosuke/Documents/b5react/lego/src/app.css",
       "index": 133,
       "index2": 128,
-      "size": 486,
+      "size": 1149,
       "built": false,
       "optional": false,
       "prefetched": false,
@@ -28837,14 +29588,14 @@
           "rendered": true,
           "initial": true,
           "entry": true,
-          "size": 3068,
+          "size": 3769,
           "names": [
             "extract-css-chunks-webpack-plugin"
           ],
           "files": [
             "*"
           ],
-          "hash": "ca7f622749592cef0aba",
+          "hash": "f7186a7a0c1517372c61",
           "siblings": [],
           "parents": [],
           "children": [],
@@ -28856,7 +29607,7 @@
               "name": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/css-loader/dist/cjs.js??ref--4-oneOf-2-1!/Users/Shinnosuke/Documents/b5react/lego/node_modules/postcss-loader/src??postcss!/Users/Shinnosuke/Documents/b5react/lego/src/app.css",
               "index": 0,
               "index2": 1,
-              "size": 662,
+              "size": 1363,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -28889,7 +29640,7 @@
                 "ModuleConcatenation bailout: Module is not an ECMAScript module"
               ],
               "depth": 0,
-              "source": "exports = module.exports = require(\"../node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.id, \"* {\\n  scroll-behavior: smooth;\\n}\\n\\nbody {\\n  font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue',\\n    Helvetica, Arial, 'Lucida Grande', sans-serif;\\n  font-weight: 300;\\n  font-size: 16px;\\n  margin: 0;\\n  padding: 0;\\n}\\n\\na {\\n  text-decoration: none;\\n  color: #108db8;\\n  font-weight: bold;\\n}\\n\\nimg {\\n  max-width: 100%;\\n}\\n\\nnav {\\n  width: 100%;\\n  background: #108db8;\\n}\\n\\nnav a {\\n  color: white;\\n  padding: 1rem;\\n  display: inline-block;\\n}\\n\\n.content {\\n  padding: 0rem;\\n}\\n\", \"\"]);\n\n"
+              "source": "exports = module.exports = require(\"../node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.id, \"* {\\n  scroll-behavior: smooth;\\n}\\n\\nbody {\\n  font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue',\\n    Helvetica, Arial, 'Lucida Grande', sans-serif;\\n  font-weight: 300;\\n  font-size: 16px;\\n  color: rgba(0, 0, 0, 0.87);\\n  margin: 0;\\n  padding: 0;\\n}\\n\\na {\\n  text-decoration: none;\\n  color: #108db8;\\n  font-weight: bold;\\n}\\n\\nimg {\\n  max-width: 100%;\\n  border-radius: 2px;\\n}\\n\\nnav {\\n  width: 100%;\\n  background: #108db8;\\n}\\n\\nnav a {\\n  color: white;\\n  padding: 1rem;\\n  display: inline-block;\\n}\\n\\n.content {\\n  padding: 0rem;\\n}\\n\\n.container {\\n    padding: 1rem;\\n}\\n\\n.is-margin-top {\\n    margin-top: 2rem;\\n}\\n\\n.is-margin-top-4 {\\n    margin-top: 4rem;\\n}\\n\\n.is-flex-grid {\\n    display: -ms-flexbox;\\n    display: flex;\\n}\\n@media screen and (max-width:680px) { \\n    .is-flex-grid { -ms-flex-flow: column-reverse; flex-flow: column-reverse;}\\n}\\n\\n.is-flex-1 {\\n    -ms-flex: 1 1;\\n        flex: 1 1;\\n    display: -ms-flexbox;\\n    display: flex;\\n    -ms-flex-flow: column;\\n        flex-flow: column;\\n    margin-right: 2rem;\\n}\\n.is-flex-1:last-child {\\n    margin-right: 0rem;\\n}\\n@media screen and (max-width:680px) { \\n    .is-flex-1 { margin-right: 0rem;}\\n}\\n\", \"\"]);\n\n"
             },
             {
               "id": 1,
@@ -28959,7 +29710,7 @@
           "name": "/Users/Shinnosuke/Documents/b5react/lego/node_modules/css-loader/dist/cjs.js??ref--4-oneOf-2-1!/Users/Shinnosuke/Documents/b5react/lego/node_modules/postcss-loader/src??postcss!/Users/Shinnosuke/Documents/b5react/lego/src/app.css",
           "index": 0,
           "index2": 1,
-          "size": 662,
+          "size": 1363,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -28992,7 +29743,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 0,
-          "source": "exports = module.exports = require(\"../node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.id, \"* {\\n  scroll-behavior: smooth;\\n}\\n\\nbody {\\n  font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue',\\n    Helvetica, Arial, 'Lucida Grande', sans-serif;\\n  font-weight: 300;\\n  font-size: 16px;\\n  margin: 0;\\n  padding: 0;\\n}\\n\\na {\\n  text-decoration: none;\\n  color: #108db8;\\n  font-weight: bold;\\n}\\n\\nimg {\\n  max-width: 100%;\\n}\\n\\nnav {\\n  width: 100%;\\n  background: #108db8;\\n}\\n\\nnav a {\\n  color: white;\\n  padding: 1rem;\\n  display: inline-block;\\n}\\n\\n.content {\\n  padding: 0rem;\\n}\\n\", \"\"]);\n\n"
+          "source": "exports = module.exports = require(\"../node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.id, \"* {\\n  scroll-behavior: smooth;\\n}\\n\\nbody {\\n  font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue',\\n    Helvetica, Arial, 'Lucida Grande', sans-serif;\\n  font-weight: 300;\\n  font-size: 16px;\\n  color: rgba(0, 0, 0, 0.87);\\n  margin: 0;\\n  padding: 0;\\n}\\n\\na {\\n  text-decoration: none;\\n  color: #108db8;\\n  font-weight: bold;\\n}\\n\\nimg {\\n  max-width: 100%;\\n  border-radius: 2px;\\n}\\n\\nnav {\\n  width: 100%;\\n  background: #108db8;\\n}\\n\\nnav a {\\n  color: white;\\n  padding: 1rem;\\n  display: inline-block;\\n}\\n\\n.content {\\n  padding: 0rem;\\n}\\n\\n.container {\\n    padding: 1rem;\\n}\\n\\n.is-margin-top {\\n    margin-top: 2rem;\\n}\\n\\n.is-margin-top-4 {\\n    margin-top: 4rem;\\n}\\n\\n.is-flex-grid {\\n    display: -ms-flexbox;\\n    display: flex;\\n}\\n@media screen and (max-width:680px) { \\n    .is-flex-grid { -ms-flex-flow: column-reverse; flex-flow: column-reverse;}\\n}\\n\\n.is-flex-1 {\\n    -ms-flex: 1 1;\\n        flex: 1 1;\\n    display: -ms-flexbox;\\n    display: flex;\\n    -ms-flex-flow: column;\\n        flex-flow: column;\\n    margin-right: 2rem;\\n}\\n.is-flex-1:last-child {\\n    margin-right: 0rem;\\n}\\n@media screen and (max-width:680px) { \\n    .is-flex-1 { margin-right: 0rem;}\\n}\\n\", \"\"]);\n\n"
         },
         {
           "id": 1,
