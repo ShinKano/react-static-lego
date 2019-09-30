@@ -4,6 +4,7 @@ import styled from 'styled-components'
 const Accordion = (props) => {
 
     const toggleOpen = (e) => {
+        console.log(e.target);
         let answer = e.target.nextElementSibling;
         // display none only when 'not-active'
         if (!answer.classList.contains("not-active")){
@@ -14,12 +15,10 @@ const Accordion = (props) => {
     };
 
     return (
-        <div style={{ textAlign: 'left' }} >
-            <QuestionDiv onClick={toggleOpen}>
+        <div style={{ textAlign: 'left' }}>
+            <QuestionDiv onClick={toggleOpen} >
                 <div className="container">
-                        <span>
                             Q.&nbsp;{props.question}
-                        </span>
                 </div>
                 <AnswerDiv className="answer not-active" >
                     <div className="container">
