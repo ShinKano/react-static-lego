@@ -92,16 +92,16 @@ export default () => (
             <Punctuation />
             <div className="is-margin-top"/>
             <Accordion
-                question="this is question?"
-                answer="this is an answer!a"
+                question="送料についての質問なのですが?"
+                answer="送料のご質問はこっちでお答えしますね。"
             />
             <Accordion
-                question="this is question?"
-                answer="this is an answer!v"
+                question="料金は支払いたいのですが?"
+                answer="支払いは自動で行われますのでご安心ください。"
             />
             <Accordion
-                question="this is question?"
-                answer="this is an answer!c"
+                question="サービスのお試しをお願いしたいのですが？"
+                answer="商品が届かない場合は、こちらまでお問い合わせください。"
             />
 
             <div className="is-margin-top-4"/>

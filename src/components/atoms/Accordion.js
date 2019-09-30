@@ -7,7 +7,6 @@ const Accordion = (props) => {
         let answer = e.target.nextElementSibling;
         // display none only when 'not-active'
         if (!answer.classList.contains("not-active")){
-            console.log("nottot");
             answer.classList.add("not-active");
         } else {
             answer.classList.remove("not-active");
@@ -15,11 +14,8 @@ const Accordion = (props) => {
     };
 
     return (
-        <div
-            style={{ textAlign: 'left' }} 
-            onClick={toggleOpen}
-        >
-            <QuestionDiv>
+        <div style={{ textAlign: 'left' }} >
+            <QuestionDiv onClick={toggleOpen}>
                 <div className="container">
                         <span>
                             Q.&nbsp;{props.question}
