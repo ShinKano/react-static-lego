@@ -42,6 +42,11 @@ nav a {
     padding: 1rem;
 }
 
+.not-active {
+    display: none;
+}
+
+/* Margin */
 .is-margin-top {
     margin-top: 2rem;
 }
@@ -50,6 +55,7 @@ nav a {
     margin-top: 4rem;
 }
 
+/* Flex */
 .is-flex {
     display: flex;
     justify-content: center;
@@ -73,4 +79,12 @@ nav a {
 }
 @media screen and (max-width:680px) { 
     .is-flex-1 { margin-right: 0rem;}
+}
+
+.price {
+    font-size: 2rem;
+}
+
+.small-span {
+    font-size: 1rem;
 }
