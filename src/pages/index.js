@@ -67,24 +67,26 @@ export default () => (
             <div className="is-flex-grid">
                 <div className="is-flex-1">
                     <Card>
-                        <h3>3日プラン</h3>
+                        <h3 className="underline">3日プラン</h3>
                         <p>到着後から３日間</p>
                         <h3 className="price">
                             <span className="small-span">¥</span>
                             &nbsp;980&nbsp;
                             <span className="small-span"><br/>（送料込み）</span>
                         </h3>
+                        <Button　green>注文する</Button>
                     </Card>
                 </div>
                 <div className="is-flex-1">
                     <Card>
-                        <h3>7日プラン</h3>
+                        <h3 className="underline">7日プラン</h3>
                         <p>到着後から３日間</p>
                         <h3 className="price">
                             <span className="small-span">¥</span>
                             &nbsp;1480&nbsp;
                             <span className="small-span"><br/>（送料込み）</span>
                         </h3>
+                        <Button　green>注文する</Button>
                     </Card>
                 </div>
             </div>
@@ -106,7 +108,7 @@ export default () => (
             />
 
             <div className="is-margin-top-4"/>
-            <h3>その他にご不明な点がありますか？「お問い合わせ」からご質問ください。</h3>
+            <h3>レゴについてその他にご不明な点がありますか？<br />「お問い合わせ」からご質問ください。</h3>
 
         </div>
 

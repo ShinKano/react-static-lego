@@ -50,6 +50,12 @@ nav a {
     padding: 1rem;
 }
 
+.underline {
+    border-bottom: solid 3px #00bcd4;
+    width: fit-content;
+    margin: 0 auto;
+}
+
 .not-active {
     display: none;
 }
