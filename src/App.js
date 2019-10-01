@@ -17,10 +17,10 @@ function App() {
   return (
     <Root>
       <Navbar>
-        <StyledLink to="/">Home</StyledLink>
-        <StyledLink to="/about">About</StyledLink>
-        <StyledLink to="/blog">Blog</StyledLink>
-        <StyledLink to="/dynamic">Dynamic</StyledLink>
+        <StyledLink to="/">LOGO</StyledLink>
+        <StyledLink to="/blog">ブログ</StyledLink>
+        <StyledLink to="/about">お問い合わせ</StyledLink>
+        {/* <StyledLink to="/dynamic">Dynamic</StyledLink> */}
       </Navbar>
       <div className="content">
         <React.Suspense fallback={<em>Loading...</em>}>

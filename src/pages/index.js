@@ -16,9 +16,10 @@ export default () => (
     <div style={{ textAlign: 'center' }}>
         <HeroBG>
             <div className="is-margin-top">
+                <div className="is-margin-top-4"/>
+                <br />
                 <h1>レゴれごレご</h1>
                 <h2>ここにサブタイトルは入る</h2>
-                <Button primary>Test!</Button>
             </div>
         </HeroBG>
         <div className="is-margin-top"/>
