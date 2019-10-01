@@ -4,7 +4,7 @@ import axios from 'axios'
 export default {
   getRoutes: async () => {
     const { data: posts } = await axios.get(
-      'https://jsonplaceholder.typicode.com/posts'
+      'https://damp-thicket-88898.herokuapp.com/posts'
     )
 
     return [
@@ -13,7 +13,7 @@ export default {
         getData: () => ({
           posts,
         }),
-        children: posts.map(post => ({
+        children: posts.reverse().map(post => ({
           path: `/post/${post.id}`,
           template: 'src/containers/Post',
           getData: () => ({

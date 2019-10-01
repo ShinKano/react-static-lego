@@ -54,6 +54,10 @@ nav a {
     display: none;
 }
 
+.is-align-left {
+    text-align: left;
+}
+
 /* Margin */
 .is-margin-top {
     margin-top: 2rem;

@@ -5,7 +5,10 @@ const Button = styled.button`
     /* Adapt the colors based on primary prop */
     background: ${props => props.primary ? "#2976D2" : "white"};
     color: ${props => props.primary ? "white" : "#2976D2"};
-
+    /* Adapt the colors based on primary prop */
+    background: ${props => props.pink ? "#e91e63" : "white"};
+    color: ${props => props.pink ? "white" : "#e91e63"};
+    cursor: pointer;
     font-size: 1em;
     margin: 1em;
     padding: 0.25em 1em;
@@ -19,6 +22,9 @@ const Button = styled.button`
     &:hover {
         background: ${props => props.primary ? "white" : "#2976D2"};
         color: ${props => props.primary ? "#2976D2" : "white"};
+
+        background: ${props => props.pink ? "white" : "#e91e63"};
+        color: ${props => props.pink ? "#e91e63" : "white"};
     }
 `;
 

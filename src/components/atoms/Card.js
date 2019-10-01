@@ -12,7 +12,7 @@ const Card = styled.div`
                 0px 2px 1px -1px rgba(0,0,0,0.12);
 
     border-radius: 2px;
-    height: 13rem;
+    height: auto;
     margin-top: 1rem;
     margin-bottom: 2rem;
     padding: 1rem;
